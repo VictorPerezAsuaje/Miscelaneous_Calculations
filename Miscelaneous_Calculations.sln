@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Miscelaneous_Calculations", "Miscelaneous_Calculations\Miscelaneous_Calculations.csproj", "{404892C5-95E0-4DA8-BB9B-2EA94B2CCF48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{404892C5-95E0-4DA8-BB9B-2EA94B2CCF48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{404892C5-95E0-4DA8-BB9B-2EA94B2CCF48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{404892C5-95E0-4DA8-BB9B-2EA94B2CCF48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{404892C5-95E0-4DA8-BB9B-2EA94B2CCF48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {717AF95A-4F10-4203-AF8F-923FA1A5B55A}
+	EndGlobalSection
+EndGlobal
